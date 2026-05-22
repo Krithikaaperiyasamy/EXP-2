@@ -1,4 +1,4 @@
-<img width="1600" height="1185" alt="WhatsApp Image 2026-05-22 at 23 27 56" src="https://github.com/user-attachments/assets/ba2ef41b-1dd0-412f-a261-a1fbf53d152a" /># EXP-2
+/># EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
