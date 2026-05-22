@@ -1,4 +1,4 @@
-# EXP-2
+<img width="1600" height="1185" alt="WhatsApp Image 2026-05-22 at 23 27 56" src="https://github.com/user-attachments/assets/ba2ef41b-1dd0-412f-a261-a1fbf53d152a" /># EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -49,15 +49,35 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-22 at 23 24 02" src="https://github.com/user-attachments/assets/71bd6f53-8d2b-462f-8e83-13b346990351" />
+
+
 Tabulation for Load Test:
+<img width="1836" height="1722" alt="WhatsApp Image 2026-05-22 at 23 24 31" src="https://github.com/user-attachments/assets/26c142cb-3a67-418b-94fa-3bb0652213f0" />
+
 
 Model graph:
-Calculation: 
+<img width="1600" height="1066" alt="WhatsApp Image 2026-05-22 at 23 25 49" src="https://github.com/user-attachments/assets/d676ade7-2a2a-4f3d-bd16-66641651da14" />
 
+<img width="1836" height="1568" alt="WhatsApp Image 2026-05-22 at 23 26 07" src="https://github.com/user-attachments/assets/91045ac6-3248-442d-9f6a-9121c6439b46" />
+
+
+Calculation: 
 Open circuit characteristics
+
+<img width="1600" height="1185" alt="WhatsApp Image 2026-05-22 at 23 27 56" src="https://github.com/user-attachments/assets/32fa5ae1-ae9e-41b7-8d80-5c2d261bda43" />
+
+<img width="1036" height="717" alt="Screenshot 2026-05-12 184613" src="https://github.com/user-attachments/assets/d7c079d7-ffb1-4c6e-afb2-5d5fd6d9bc20" />
+
 
   
 Load Characteristics:
+
+<img width="1318" height="918" alt="WhatsApp Image 2026-05-22 at 23 28 14" src="https://github.com/user-attachments/assets/dc651ae5-e38a-4a34-b888-e66a1c7a86b7" />
+
+<img width="957" height="820" alt="Screenshot 2026-05-12 190301" src="https://github.com/user-attachments/assets/8ca7fc98-c3f4-4c71-8c60-a6b16f7da51d" />
+
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
